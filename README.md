@@ -14,11 +14,11 @@
 
 >## 3. Контакты
 >>#### [Telegram](https://t.me/madreyknotbot)
->>#### [ВК](https://vk.com/madreyk)
 >>#### [YouTube](https://www.youtube.com/channel/UCmW8_iVrn-258Qtg52c9mOQ)
->>#### Gmail - marikone008@gmail.com
+>>#### Mail - madreyk@tuta.io 
+>>#### XMPP - madreyk@404.city
 
 >#### 4. Донат
->>#### Monero(XMR) - 448ZrB6FRQjgbV86t7eDacRFtE7GRVNmzf6ZhiFHktFu4EQF7SW6qECfjNhQGmst8d6wCjHb7GST7MDMLjCJ99V3Jy9C1Jh
->>#### ZCash(ZEC) - скоро будет
+>>#### Monero(XMR) -
+>>#### ZCash(ZEC) -
 >>#### [Donation Alerts](https://www.donationalerts.com/r/madreyk)
